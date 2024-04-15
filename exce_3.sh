@@ -5,5 +5,5 @@ echo ' For Loop Example '
 echo '---------------------------------------------'
 for ((counter=1;counter<=10;counter++))
 do
-echo $counter
+    echo $counter
 done
