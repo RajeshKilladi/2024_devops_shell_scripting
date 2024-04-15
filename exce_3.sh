@@ -3,7 +3,7 @@
 echo '---------------------------------------------'
 echo ' For Loop Example '
 echo '---------------------------------------------'
-for var in (1..10)
+for var in {1..10}
 do 
 echo $var 
 done
